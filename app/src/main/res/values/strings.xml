@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HiltMvvmArchitectureApplication</string>
+    <string name="load_movies">Load Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_inst">Are you sure you want to remove this instruction?</string>
+    <string name="show_dialog">Show Dialog</string>
+</resources>
